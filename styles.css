@@ -7,8 +7,8 @@ body {
   font-family: 'Roboto Slab', serif;
   font-weight: 300;
   color: #111;
-  /* TODO: Replace the background pattern PNG with the matching SVG (background.svg). Use CSS to resize the SVG to match the original design. */
-  background: url('images/background.png') #edeff0;
+  background: url('svgs/background.svg') #edeff0;
+  background-size: 54px;
 }
 
 #container {
