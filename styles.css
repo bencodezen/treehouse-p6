@@ -119,6 +119,48 @@ footer {
   height: 170px;
 }
 
+.dogs .eyes,
+.dogs .nose {
+  fill:#2D3339;
+}
+
+.dogs .mouth{
+  fill:#FBFEFF;
+}
+
+#corgi-red .fur {
+  fill:#BA8058;
+}
+
+#corgi-red .eyebrows {
+  fill:#EAAA7F;
+}
+
+#corgi-fawn .fur {
+  fill:#EAAA7F;
+}
+
+#corgi-fawn .eyebrows {
+  fill:#F4C6A6;
+}
+
+#corgi-sable .fur {
+  fill:#844B24;
+}
+
+#corgi-sable .eyebrows {
+  fill:#BA8058;
+}
+
+#corgi-blacktan .ears,
+#corgi-blacktan .eyebrows {
+  fill:#BA8058;
+}
+
+#corgi-blacktan .fur {
+  fill: #52595F;
+}
+
 /* Responsive Styles */
 
 @media (max-width: 420px) {
