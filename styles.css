@@ -35,10 +35,12 @@ a {
 header {
   padding-top: 10px;
 }
-  /* TODO: When a user hovers over the menu icons, use CSS to change their color to match the text color. */
   header nav {
     padding-bottom: 50px;
     text-align: left;
+  }
+  header nav a:hover .nav-icon {
+    fill: #000;
   }
   header nav ul li {
     display: inline-block;
