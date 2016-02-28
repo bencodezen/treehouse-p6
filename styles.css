@@ -1,3 +1,5 @@
+/* TODO: At a page width of less than 420 pixels remove the text from the logo and add an H1 tag that contains the logo text. */
+
 body {
   margin: 0;
   padding: 0;
@@ -5,6 +7,7 @@ body {
   font-family: 'Roboto Slab', serif;
   font-weight: 300;
   color: #111;
+  /* TODO: Replace the background pattern PNG with the matching SVG (background.svg). Use CSS to resize the SVG to match the original design. */
   background: url('images/background.png') #edeff0;
 }
 
@@ -33,6 +36,7 @@ a {
 header {
   padding-top: 10px;
 }
+  /* TODO: When a user hovers over the menu icons, use CSS to change their color to match the text color. */
   header nav {
     padding-bottom: 50px;
     text-align: left;
