@@ -79,6 +79,19 @@ footer {
   color: #ba8058;
 }
 
+/* Nav Icons */
+
+.nav-icon {
+  width: 15px;
+  height: 13px;
+  fill: #39ADD1;
+}
+
+#icon-location {
+  width: 14px;
+  height: 14px;
+}
+
 /* Logo SVG Styles */
 
 #logo {
@@ -91,6 +104,7 @@ footer {
 #logo .paw    { fill:#F4C6A6; }
 
 /* Company Name */
+
 .company-name {
   display: none;
   color: #EAAA7F;
