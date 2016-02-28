@@ -79,3 +79,14 @@ footer {
   padding-bottom: 30px;
   color: #ba8058;
 }
+
+/* Logo SVG Styles */
+
+#logo {
+  width: 140px;
+  height: 120px;
+}
+
+#logo .circle { fill:#BA8058; }
+#logo .text   { fill:#EAAA7F; }
+#logo .paw    { fill:#F4C6A6; }
