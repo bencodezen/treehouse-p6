@@ -39,8 +39,18 @@ header {
     padding-bottom: 50px;
     text-align: left;
   }
+  header nav a,
+  header nav a .nav-icon {
+    transition: color 0.5s linear,
+                fill 0.5s linear,
+                transform 0.5s ease-out;
+  }
+  header nav a .nav-icon {
+    transform-origin: bottom center;
+  }
   header nav a:hover .nav-icon {
     fill: #000;
+    transform: rotate(360deg);
   }
   header nav ul li {
     display: inline-block;
