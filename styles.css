@@ -10,7 +10,7 @@ body {
   background-size: 52px;
 }
 
-#container {
+.container {
   max-width: 960px;
   background: #fff;
   margin: 0 auto;
@@ -99,21 +99,21 @@ footer {
   fill: #39ADD1;
 }
 
-#icon-location {
+.icon-location {
   width: 14px;
   height: 14px;
 }
 
 /* Logo SVG Styles */
 
-#logo {
+.logo {
   width: 140px;
   height: 120px;
 }
 
-#logo .circle { fill:#BA8058; }
-#logo .text   { fill:#EAAA7F; }
-#logo .paw    { fill:#F4C6A6; }
+.logo .circle { fill:#BA8058; }
+.logo .text   { fill:#EAAA7F; }
+.logo .paw    { fill:#F4C6A6; }
 
 /* Company Name */
 
@@ -138,36 +138,36 @@ footer {
   fill:#FBFEFF;
 }
 
-#corgi-red .fur {
+.corgi-red .fur {
   fill:#BA8058;
 }
 
-#corgi-red .eyebrows {
+.corgi-red .eyebrows {
   fill:#EAAA7F;
 }
 
-#corgi-fawn .fur {
+.corgi-fawn .fur {
   fill:#EAAA7F;
 }
 
-#corgi-fawn .eyebrows {
+.corgi-fawn .eyebrows {
   fill:#F4C6A6;
 }
 
-#corgi-sable .fur {
+.corgi-sable .fur {
   fill:#844B24;
 }
 
-#corgi-sable .eyebrows {
+.corgi-sable .eyebrows {
   fill:#BA8058;
 }
 
-#corgi-blacktan .ears,
-#corgi-blacktan .eyebrows {
+.corgi-blacktan .ears,
+.corgi-blacktan .eyebrows {
   fill:#BA8058;
 }
 
-#corgi-blacktan .fur {
+.corgi-blacktan .fur {
   fill: #52595F;
 }
 
@@ -178,7 +178,7 @@ footer {
     display: block;
   }
 
-  #logo .text {
+  .logo .text {
     display: none;
   }
 }
