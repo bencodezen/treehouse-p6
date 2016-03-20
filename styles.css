@@ -91,8 +91,6 @@ footer {
   color: #ba8058;
 }
 
-/* Nav Icons */
-
 .nav-icon {
   width: 15px;
   height: 13px;
@@ -104,25 +102,15 @@ footer {
   height: 14px;
 }
 
-/* Logo SVG Styles */
-
 .logo {
   width: 140px;
   height: 120px;
 }
 
-.logo .circle { fill: #ba8058; }
-.logo .text   { fill: #eaaa7f; }
-.logo .paw    { fill: #f4c6a6; }
-
-/* Company Name */
-
 .company-name {
   display: none;
   color: #eaaa7f;
 }
-
-/* Dogs */
 
 .dogs {
   width: 170px;
@@ -138,18 +126,13 @@ footer {
   fill:#fbfeff;
 }
 
-.corgi-red .fur {
-  fill: #ba8058;
-}
-
+.logo .text,
+.corgi-fawn .fur,
 .corgi-red .eyebrows {
   fill: #eaaa7f;
 }
 
-.corgi-fawn .fur {
-  fill: #eaaa7f;
-}
-
+.logo .paw,
 .corgi-fawn .eyebrows {
   fill: #f4c6a6;
 }
@@ -158,12 +141,11 @@ footer {
   fill: #844b24;
 }
 
-.corgi-sable .eyebrows {
-  fill: #ba8058;
-}
-
+.logo .circle,
+.corgi-red .fur,
 .corgi-blacktan .ears,
-.corgi-blacktan .eyebrows {
+.corgi-blacktan .eyebrows,
+.corgi-sable .eyebrows {
   fill: #ba8058;
 }
 
