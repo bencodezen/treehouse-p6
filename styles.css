@@ -96,7 +96,7 @@ footer {
 .nav-icon {
   width: 15px;
   height: 13px;
-  fill: #39ADD1;
+  fill: #39add1;
 }
 
 .icon-location {
@@ -111,15 +111,15 @@ footer {
   height: 120px;
 }
 
-.logo .circle { fill:#BA8058; }
-.logo .text   { fill:#EAAA7F; }
-.logo .paw    { fill:#F4C6A6; }
+.logo .circle { fill: #ba8058; }
+.logo .text   { fill: #eaaa7f; }
+.logo .paw    { fill: #f4c6a6; }
 
 /* Company Name */
 
 .company-name {
   display: none;
-  color: #EAAA7F;
+  color: #eaaa7f;
 }
 
 /* Dogs */
@@ -131,44 +131,44 @@ footer {
 
 .dogs .eyes,
 .dogs .nose {
-  fill:#2D3339;
+  fill: #2d3339;
 }
 
 .dogs .mouth{
-  fill:#FBFEFF;
+  fill:#fbfeff;
 }
 
 .corgi-red .fur {
-  fill:#BA8058;
+  fill: #ba8058;
 }
 
 .corgi-red .eyebrows {
-  fill:#EAAA7F;
+  fill: #eaaa7f;
 }
 
 .corgi-fawn .fur {
-  fill:#EAAA7F;
+  fill: #eaaa7f;
 }
 
 .corgi-fawn .eyebrows {
-  fill:#F4C6A6;
+  fill: #f4c6a6;
 }
 
 .corgi-sable .fur {
-  fill:#844B24;
+  fill: #844b24;
 }
 
 .corgi-sable .eyebrows {
-  fill:#BA8058;
+  fill: #ba8058;
 }
 
 .corgi-blacktan .ears,
 .corgi-blacktan .eyebrows {
-  fill:#BA8058;
+  fill: #ba8058;
 }
 
 .corgi-blacktan .fur {
-  fill: #52595F;
+  fill: #52595f;
 }
 
 /* Responsive Styles */
